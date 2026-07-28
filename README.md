@@ -8,4 +8,4 @@ This is about my personal artifacts published to the public
 | APM_Workflow_For_SM                     | [View](https://www.scribd.com/document/1055332000/Sm-Workflow-for-a-Pm)                  |
 | APM_Workflow_Project                    | [View](https://www.scribd.com/document/1059982780/Sample-Use-Case)                       |
 | AISDLC                                  | [View](https://www.scribd.com/document/1059988259/AISDLC)                                |
-| My_Interview_Analysis                   | [View](https://www.scribd.com/document/1065232877/My-Interview-Analysis)                 |
+| My_Interview_Analysis                   | [View](https://www.scribd.com/document/1067052628/My-Interview-Analysis)                 |
