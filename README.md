@@ -9,3 +9,5 @@ This is about my personal artifacts published to the public
 | APM_Workflow_Project                    | [View](https://www.scribd.com/document/1059982780/Sample-Use-Case)                       |
 | AISDLC                                  | [View](https://www.scribd.com/document/1059988259/AISDLC)                                |
 | My_Interview_Analysis                   | [View](https://www.scribd.com/document/1067447594/My-Interview-Analysis)                 |
+| PFCP_Session_Del                        | [View](https://www.scribd.com/document/1070110765/1-Nokia-5G-Incoming-Call-Failure)      |
+| Invalid_UE_NGAP_ID                      | [View](https://www.scribd.com/document/1070111488/2-Nokia-5G-Invalid-UENgapID)           |
